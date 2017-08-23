@@ -2163,7 +2163,8 @@ msgstr "Nhập liên hệ để tìm trong ô nhập và bấm vào \"Tìm kiế
 
 #: enterNewPassword
 msgid "Please enter a new password and re-enter it in the confirmation field."
-msgstr "Vui lòng nhập một mật khẩu mới và nhập lại nó trong ô xác nhận."
+msgstr "Vui lòng nhập một mật khẩu mới và nhập lại mật khẩu vào trường xác nhận               (mật khẩu mới cần phải dài ít nhất 8 ký tự, phải có chữ hoa, chữ thường, chứa ít nhất một số và ít nhất một ký tự đặc biệt như: !, @, #, $, %, &).
+"
 
 #: error
 msgctxt "error"
