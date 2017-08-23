@@ -7274,7 +7274,7 @@ msgstr "Tên đăng nhập hoặc mật khẩu không đúng. Kiểm tra xem đ�
 
 #: account.CHANGE_PASSWORD
 msgid "Your password in no longer valid. Please choose a new password."
-msgstr "Mật khẩu của bạn không còn hợp lệ. Xin vui lòng chọn một mật khẩu mới."
+msgstr "Mật khẩu của bạn không hợp lệ. Xin vui lòng chọn một mật khẩu mới."
 
 #: account.EXTERNAL_AUTH_FAILED
 msgid "The email or password is incorrect. Verify that CAPS LOCK is not on, and then retype the current email and password."
