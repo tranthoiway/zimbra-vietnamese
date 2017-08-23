@@ -4859,7 +4859,7 @@ msgstr "Không có ngày trong tuần nào được kiểm tra."
 
 #: errorPassChange
 msgid "Your password is no longer valid. Please choose a new password."
-msgstr "Mật khẩu của bạn không còn hợp lệ. Vui lòng chọn một mật khẩu mới."
+msgstr "Mật khẩu của bạn không hợp lệ. Vui lòng chọn một mật khẩu mới."
 
 #: errorPassChangeTooSoon
 msgid "Password cannot be changed too soon."
