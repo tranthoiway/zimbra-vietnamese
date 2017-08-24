@@ -70,7 +70,7 @@ msgstr ""
 
 #: account.CHANGE_PASSWORD
 msgid "Your password is no longer valid. Please choose a new password."
-msgstr "Mật khẩu của bạn không còn hợp lệ nữa. Vui lòng chọn một mật khẩu mới."
+msgstr "Mật khẩu của bạn không hợp lệ nữa. Vui lòng chọn một mật khẩu mới."
 
 #: account.INVALID_PASSWORD
 msgid "You have entered an invalid password."
