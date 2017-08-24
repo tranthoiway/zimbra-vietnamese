@@ -1,26 +1,26 @@
-#. extracted from ZMsg.properties, ZMsg_vi_VN.properties
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-07 23:29+0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-08-24 01:57+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Poedit 2.0.3\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
 
-#. # 
+#. #
 #. # ***** BEGIN LICENSE BLOCK *****
 #. # Zimbra Collaboration Suite Web Client
 #. # Copyright (C) 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2013, 2014 Zimbra, Inc.
-#. # 
+#. #
 #. # This program is free software: you can redistribute it and/or modify it under
 #. # the terms of the GNU General Public License as published by the Free Software Foundation,
 #. # version 2 of the License.
-#. # 
+#. #
 #. # This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 #. # without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 #. # See the GNU General Public License for more details.
@@ -37,8 +37,7 @@ msgid "The account is in maintenance mode"
 msgstr "Tài khoản đang trong chế độ bảo trì"
 
 #: BAD_JSON_RESPONSE
-msgctxt "BAD_JSON_RESPONSE"
-"BAD_JSON_RESPONSE"
+msgctxt "BAD_JSON_RESPONSEBAD_JSON_RESPONSE"
 msgid "A network error has occurred."
 msgstr "Một lỗi mạng đã được xảy ra."
 
@@ -66,8 +65,8 @@ msgid ""
 "The username or password is incorrect. Verify that CAPS LOCK is not on, and "
 "then retype the current username and password."
 msgstr ""
-"Tên người dùng và mật khẩu không đúng. Kiểm tra xem CAPS LOCK là không bật, "
-"và sau đó gõ lại tên người dùng và mật khẩu hiện thời."
+"Tên người dùng và mật khẩu không đúng. Kiểm tra xem CAPS LOCK là không bật, và "
+"sau đó gõ lại tên người dùng và mật khẩu hiện thời."
 
 #: account.CHANGE_PASSWORD
 msgid "Your password is no longer valid. Please choose a new password."
@@ -118,8 +117,8 @@ msgid ""
 "Password locked. User not allowed to change password. Please contact your "
 "System Administrator."
 msgstr ""
-"Mật khẩu đã khoá. Người dùng không được phép thay đổi mật khẩu. Vui lòng "
-"liên hệ tới Quản trị hệ thống của bạn."
+"Mật khẩu đã khoá. Người dùng không được phép thay đổi mật khẩu. Vui lòng liên "
+"hệ tới Quản trị hệ thống của bạn."
 
 #: account.PASSWORD_RECENTLY_USED
 msgid ""
@@ -225,7 +224,7 @@ msgstr "Các thông điệp không được chấp nhận bởi dịch vụ."
 
 #: im.undefined_condition
 msgid "An undefined error occurred. "
-msgstr "Một lỗi chưa định nghĩa đã xảy ra."
+msgstr "Một lỗi chưa định nghĩa đã xảy ra. "
 
 #: im.unknown_error
 msgid "An unknown error occurred."
@@ -279,16 +278,13 @@ msgstr "Một đối tượng mà có tên đã tồn tại."
 
 #: mail.MODIFY_CONFLICT
 msgid ""
-"Item version number conflict. Another version was added between edit and "
-"save."
+"Item version number conflict. Another version was added between edit and save."
 msgstr ""
-"Số phiên bản xung đột. Phiên bản khác đã được thêm vào giữa để sửa và lưa "
-"lại."
+"Số phiên bản xung đột. Phiên bản khác đã được thêm vào giữa để sửa và lưa lại."
 
 #: mail.INVALID_NAME
 msgid ""
-"Sorry, \"{0}\" is not a valid name. It contains at least one invalid "
-"character."
+"Sorry, \"{0}\" is not a valid name. It contains at least one invalid character."
 msgstr ""
 "Xin lỗi, \"{0}\" không phải là một tên hợp lệ. Nó chứa ít nhất một ký tự không "
 "hợp lệ."
@@ -304,11 +300,10 @@ msgstr "Tại khoản này hiện thời đang trong chế độ bảo trì."
 
 #: mail.MESSAGE_TOO_BIG
 msgid ""
-"This message cannot be sent because it has exceeded the maximum allowed "
-"size."
+"This message cannot be sent because it has exceeded the maximum allowed size."
 msgstr ""
-"Thông điệp này không thể được gửi đi vì nó kích cỡ của nó vượt qua kích cỡ "
-"tối đa."
+"Thông điệp này không thể được gửi đi vì nó kích cỡ của nó vượt qua kích cỡ tối "
+"đa."
 
 #: mail.NO_SUCH_CONV
 msgid "No such conversation exists."
@@ -346,8 +341,7 @@ msgid "Unable to parse the search query."
 msgstr "Không thể phân tích chuỗi truy vấn tìm kiếm."
 
 #: mail.QUOTA_EXCEEDED
-msgid ""
-"Your message could not be sent because you have exceeded your mail quota."
+msgid "Your message could not be sent because you have exceeded your mail quota."
 msgstr ""
 "Thông điệp của bạn không thể được gửi vì bạn bạn đã quá hạn ngạch lưu mail."
 
@@ -465,8 +459,8 @@ msgstr "Không có máy chủ kiểm tra chính tả nào được định nghĩ
 
 #: voice.UNABLE_TO_RETRIEVE_PROFILE_SUMMARY
 msgid ""
-"The system is currently unable to complete your request. We apologize for "
-"this inconvenience."
+"The system is currently unable to complete your request. We apologize for this "
+"inconvenience."
 msgstr ""
 "Hệ thống hiện thời không thể hoàn thành yêu cầu của bạn. Chúng tôi lấy làm "
 "tiếc về sự phiền phức này."
@@ -506,14 +500,14 @@ msgid ""
 "An error occurred while attempting to update your voice mail preferences. "
 "Please try again."
 msgstr ""
-"Một lỗi đã xay ra trong khi cố gắng cập nhật tham chiếu thư thoại của bạn. "
-"Vui lòng thử lại."
+"Một lỗi đã xay ra trong khi cố gắng cập nhật tham chiếu thư thoại của bạn. Vui "
+"lòng thử lại."
 
 #: voice.UNABLE_TO_FORWARD_VOICEMAIL
 msgid "Your email could not be forwarded at this time. Please try again later."
 msgstr ""
-"Mail của bạn không thể được chuyển tiếp trong thời điểm hiện tại. Vui lòng "
-"thử lại sau."
+"Mail của bạn không thể được chuyển tiếp trong thời điểm hiện tại. Vui lòng thử "
+"lại sau."
 
 #: voice.UNABLE_TO_RETRIEVE_CALL_FEATURES
 msgid "Unable to retrieve call features."
@@ -533,7 +527,7 @@ msgstr "Không thể nhận bản tóm tắt của thư thoại."
 
 #: voice.UNABLE_TO_MODIFY_VOICEMAIL_STATUS
 msgid "Unable to modify voice mail status. "
-msgstr "Không thể thay đổi trạng thái thư thoại."
+msgstr "Không thể thay đổi trạng thái thư thoại. "
 
 #: voice.UNABLE_TO_EMPTY_VOICEMAIL_TRASH
 msgid "Unable to empty voice mail trash."

@@ -1,27 +1,27 @@
-#. extracted from .\messages\ZhMsg.properties
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-08 22:16+0700\n"
+"POT-Creation-Date: 2017-08-24 14:55+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Poedit 2.0.3\n"
 
 #. #
 #. # ***** BEGIN LICENSE BLOCK *****
 #. # Zimbra Collaboration Suite Web Client
 #. # Copyright (C) 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013 Zimbra Software, LLC.
-#. # 
+#. #
 #. # The contents of this file are subject to the Zimbra Public License
 #. # Version 1.4 ("License"); you may not use this file except in
 #. # compliance with the License.  You may obtain a copy of the License at
 #. # http://www.zimbra.com/license.
-#. # 
+#. #
 #. # Software distributed under the License is distributed on an "AS IS"
 #. # basis, WITHOUT WARRANTY OF ANY KIND, either express or implied.
 #. # ***** END LICENSE BLOCK *****
@@ -97,8 +97,7 @@ msgid "Address book \"{0}\" color changed to \"{1}\"."
 msgstr ""
 
 #: actionAddressBookContactsImported
-msgid ""
-"Imported {0,number,integer} {0,choice,0#contacts.|1#contact|1<contacts.}"
+msgid "Imported {0,number,integer} {0,choice,0#contacts.|1#contact|1<contacts.}"
 msgstr ""
 
 #: actionAddressBookDeleted
@@ -153,8 +152,8 @@ msgstr ""
 
 #: actionBriefcaseItemsDeleted
 msgid ""
-"{0,choice,0#0 items have been deleted|1#1 item has been "
-"deleted|1<{0,number,integer} items have been deleted}."
+"{0,choice,0#0 items have been deleted|1#1 item has been deleted|1<{0,number,"
+"integer} items have been deleted}."
 msgstr ""
 
 #: actionBriefcaseMovedToTrash
@@ -167,20 +166,20 @@ msgstr ""
 
 #: actionBriefcaseTag
 msgid ""
-"The tag \"{1}\" has been added to {0,choice,0#0 items|1#1 "
-"item|1<{0,number,integer} items}."
+"The tag \"{1}\" has been added to {0,choice,0#0 items|1#1 item|1<{0,number,"
+"integer} items}."
 msgstr ""
 
 #: actionBriefcaseUntag
 msgid ""
-"The tag \"{1}\" has been removed from {0,choice,0#0 items|1#1 "
-"item|1<{0,number,integer} items}."
+"The tag \"{1}\" has been removed from {0,choice,0#0 items|1#1 item|1<{0,number,"
+"integer} items}."
 msgstr ""
 
 #: actionBriefcaseUntagAll
 msgid ""
-"All tags have been removed from {0,choice,0#0 items|1#1 "
-"item|1<{0,number,integer} items}."
+"All tags have been removed from {0,choice,0#0 items|1#1 item|1<{0,number,"
+"integer} items}."
 msgstr ""
 
 #: actionAddFlag
@@ -222,14 +221,14 @@ msgstr ""
 
 #: actionApptFlag
 msgid ""
-"{0,choice,0#0 appointments have been flagged|1#1 appointment has been "
-"flagged|1<{0,number,integer} appointments have been flagged}."
+"{0,choice,0#0 appointments have been flagged|1#1 appointment has been flagged|"
+"1<{0,number,integer} appointments have been flagged}."
 msgstr ""
 
 #: actionApptTag
 msgid ""
-"The tag \"{1}\" has been added to {0,choice,0#0 appointments|1#1 "
-"appointment|1<{0,number,integer} appointments}."
+"The tag \"{1}\" has been added to {0,choice,0#0 appointments|1#1 appointment|"
+"1<{0,number,integer} appointments}."
 msgstr ""
 
 #: actionApptUntag
@@ -240,8 +239,8 @@ msgstr ""
 
 #: actionApptUntagAll
 msgid ""
-"All tags have been removed from {0,choice,0#0 appointments|1#1 "
-"appointment|1<{0,number,integer} appointments}."
+"All tags have been removed from {0,choice,0#0 appointments|1#1 appointment|1<{0,"
+"number,integer} appointments}."
 msgstr ""
 
 #: actionApptUnflag
@@ -252,8 +251,8 @@ msgstr ""
 
 #: actionCalendarAppointmentsImported
 msgid ""
-"Imported {0,number,integer} "
-"{0,choice,0#appointments.|1#appointment|1<appointments.}"
+"Imported {0,number,integer} {0,choice,0#appointments.|1#appointment|"
+"1<appointments.}"
 msgstr ""
 
 #: actionCalendarCreated
@@ -296,75 +295,75 @@ msgstr ""
 
 #: actionContactHardDeleted
 msgid ""
-"{0,choice,0#0 contacts have been deleted|1#1 contact has been "
-"deleted|1<{0,number,integer} contacts have been deleted}."
+"{0,choice,0#0 contacts have been deleted|1#1 contact has been deleted|1<{0,"
+"number,integer} contacts have been deleted}."
 msgstr ""
 
 #: actionContactFlag
 msgid ""
-"{0,choice,0#0 contacts have been flagged|1#1 contact has been "
-"flagged|1<{0,number,integer} contacts have been flagged}."
+"{0,choice,0#0 contacts have been flagged|1#1 contact has been flagged|1<{0,"
+"number,integer} contacts have been flagged}."
 msgstr ""
 
 #: actionContactUnflag
 msgid ""
-"{0,choice,0#0 contacts have been unflagged|1#1 contact has been "
-"unflagged|1<{0,number,integer} contacts have been unflagged}."
+"{0,choice,0#0 contacts have been unflagged|1#1 contact has been unflagged|1<{0,"
+"number,integer} contacts have been unflagged}."
 msgstr ""
 
 #: actionContactTag
 msgid ""
-"The tag \"{1}\" has been added to {0,choice,0#0 contacts|1#1 "
-"contact|1<{0,number,integer} contacts}."
+"The tag \"{1}\" has been added to {0,choice,0#0 contacts|1#1 contact|1<{0,"
+"number,integer} contacts}."
 msgstr ""
 
 #: actionContactUntag
 msgid ""
-"The tag \"{1}\" has been removed from {0,choice,0#0 contacts|1#1 "
-"contact|1<{0,number,integer} contacts}."
+"The tag \"{1}\" has been removed from {0,choice,0#0 contacts|1#1 contact|1<{0,"
+"number,integer} contacts}."
 msgstr ""
 
 #: actionContactUntagAll
 msgid ""
-"All tags have been removed from {0,choice,0#0 contacts|1#1 "
-"contact|1<{0,number,integer} contacts}."
+"All tags have been removed from {0,choice,0#0 contacts|1#1 contact|1<{0,number,"
+"integer} contacts}."
 msgstr ""
 
 #: actionContactMoved
 msgid ""
-"{0,choice,0#0 contacts have been moved to \"{1}\"|1#1 contact has been moved "
-"to \"{1}\"|1<{0,number,integer} contacts have been moved to \"{1}\"}."
+"{0,choice,0#0 contacts have been moved to \"{1}\"|1#1 contact has been moved to "
+"\"{1}\"|1<{0,number,integer} contacts have been moved to \"{1}\"}."
 msgstr ""
 
 #: actionContactMovedTrash
 msgid ""
-"{0,choice,0#0 contacts have been moved to the Trash folder|1#1 contact has "
-"been moved to the Trash folder|1<{0,number,integer} contacts have been moved "
-"to the Trash folder}."
+"{0,choice,0#0 contacts have been moved to the Trash folder|1#1 contact has been "
+"moved to the Trash folder|1<{0,number,integer} contacts have been moved to the "
+"Trash folder}."
 msgstr ""
 
 #: actionConvHardDeleted
 msgid ""
-"{0,choice,0#0 conversations have been deleted|1#1 conversation has been "
-"deleted|1<{0,number,integer} conversations have been deleted}."
+"{0,choice,0#0 conversations have been deleted|1#1 conversation has been deleted|"
+"1<{0,number,integer} conversations have been deleted}."
 msgstr ""
 
 #: actionConvMessageHardDeleted
 msgid ""
-"{0} {0,choice,1#conversation|2#conversations} and {1} "
-"{1,choice,1#message|2#messages} have been deleted. "
+"{0} {0,choice,1#conversation|2#conversations} and {1} {1,choice,1#message|"
+"2#messages} have been deleted. "
 msgstr ""
 
 #: actionConvFlag
 msgid ""
-"{0,choice,0#0 conversations have been flagged|1#1 conversation has been "
-"flagged|1<{0,number,integer} conversations have been flagged}."
+"{0,choice,0#0 conversations have been flagged|1#1 conversation has been flagged|"
+"1<{0,number,integer} conversations have been flagged}."
 msgstr ""
 
 #: actionConvMessageFlag
 msgid ""
-"{0} {0,choice,1#conversation|2#conversations} and {1} "
-"{1,choice,1#message|2#messages} have been flagged."
+"{0} {0,choice,1#conversation|2#conversations} and {1} {1,choice,1#message|"
+"2#messages} have been flagged."
 msgstr ""
 
 #: actionConvUnflag
@@ -375,8 +374,8 @@ msgstr ""
 
 #: actionConvMessageUnflag
 msgid ""
-"{0} {0,choice,1#conversation|2#conversations} and {1} "
-"{1,choice,1#message|2#messages} have been unflagged."
+"{0} {0,choice,1#conversation|2#conversations} and {1} {1,choice,1#message|"
+"2#messages} have been unflagged."
 msgstr ""
 
 #: actionConvMarkedRead
@@ -387,21 +386,20 @@ msgstr ""
 
 #: actionConvMessageMarkedRead
 msgid ""
-"{0} {0,choice,1#conversation|2#conversations} and {1} "
-"{1,choice,1#message|2#messages} have been marked read."
+"{0} {0,choice,1#conversation|2#conversations} and {1} {1,choice,1#message|"
+"2#messages} have been marked read."
 msgstr ""
 
 #: actionConvMarkedUnread
 msgid ""
-"{0,choice,0#0 conversations have been marked unread|1#1 conversation has "
-"been marked unread|1<{0,number,integer} conversations have been marked "
-"unread}."
+"{0,choice,0#0 conversations have been marked unread|1#1 conversation has been "
+"marked unread|1<{0,number,integer} conversations have been marked unread}."
 msgstr ""
 
 #: actionConvMessageMarkedUnread
 msgid ""
-"{0} {0,choice,1#conversation|2#conversations} and {1} "
-"{1,choice,1#message|2#messages} have been marked unread."
+"{0} {0,choice,1#conversation|2#conversations} and {1} {1,choice,1#message|"
+"2#messages} have been marked unread."
 msgstr ""
 
 #: actionConvMarkedNotSpam
@@ -413,34 +411,33 @@ msgstr ""
 
 #: actionConvMessageMarkedNotSpam
 msgid ""
-"{0} {0,choice,1#conversation|2#conversations} and {1} "
-"{1,choice,1#message|2#messages} have been moved to the Inbox folder."
+"{0} {0,choice,1#conversation|2#conversations} and {1} {1,choice,1#message|"
+"2#messages} have been moved to the Inbox folder."
 msgstr ""
 
 #: actionConvMarkedSpam
 msgid ""
-"{0,choice,0#0 conversations have been moved to the Spam folder|1#1 "
-"conversation has been moved to the Spam folder|1<{0,number,integer} "
-"conversations have been moved to the Spam folder}."
+"{0,choice,0#0 conversations have been moved to the Spam folder|1#1 conversation "
+"has been moved to the Spam folder|1<{0,number,integer} conversations have been "
+"moved to the Spam folder}."
 msgstr ""
 
 #: actionConvMessageMarkedSpam
 msgid ""
-"{0} {0,choice,1#conversation|2#conversations} and {1} "
-"{1,choice,1#message|2#messages} have been moved to the Spam folder."
+"{0} {0,choice,1#conversation|2#conversations} and {1} {1,choice,1#message|"
+"2#messages} have been moved to the Spam folder."
 msgstr ""
 
 #: actionConvTag
 msgid ""
-"The tag \"{1}\" has been added to {0,choice,0#0 conversations|1#1 "
-"conversation|1<{0,number,integer} conversations}."
+"The tag \"{1}\" has been added to {0,choice,0#0 conversations|1#1 conversation|"
+"1<{0,number,integer} conversations}."
 msgstr ""
 
 #: actionConvMessageTag
 msgid ""
-"The tag \"{2}\" has been added to {0} "
-"{0,choice,1#conversation|2#conversations} and {1} "
-"{1,choice,1#message|2#messages}."
+"The tag \"{2}\" has been added to {0} {0,choice,1#conversation|2#conversations} "
+"and {1} {1,choice,1#message|2#messages}."
 msgstr ""
 
 #: actionConvUntag
@@ -451,22 +448,20 @@ msgstr ""
 
 #: actionConvMessageUntag
 msgid ""
-"The tag \"{2}\" had been removed from {0} "
-"{0,choice,1#conversation|2#conversations} and {1} "
-"{1,choice,1#message|2#messages}."
+"The tag \"{2}\" had been removed from {0} {0,choice,1#conversation|"
+"2#conversations} and {1} {1,choice,1#message|2#messages}."
 msgstr ""
 
 #: actionConvUntagAll
 msgid ""
-"All tags have been removed from {0,choice,0#0 conversations|1#1 "
-"conversation|1<{0,number,integer} conversations}."
+"All tags have been removed from {0,choice,0#0 conversations|1#1 conversation|"
+"1<{0,number,integer} conversations}."
 msgstr ""
 
 #: actionConvMessageUntagAll
 msgid ""
-"All tags have been removed from {0} "
-"{0,choice,1#conversation|2#conversations} and {1} "
-"{1,choice,1#message|2#messages}."
+"All tags have been removed from {0} {0,choice,1#conversation|2#conversations} "
+"and {1} {1,choice,1#message|2#messages}."
 msgstr ""
 
 #: actionConvMoved
@@ -478,8 +473,8 @@ msgstr ""
 
 #: actionConvMessageMoved
 msgid ""
-"{0} {0,choice,1#conversation|2#conversations} and {1} "
-"{1,choice,1#message|2#messages} have been moved to \"{2}\"."
+"{0} {0,choice,1#conversation|2#conversations} and {1} {1,choice,1#message|"
+"2#messages} have been moved to \"{2}\"."
 msgstr ""
 
 #: actionConvMovedTrash
@@ -491,8 +486,8 @@ msgstr ""
 
 #: actionConvMessageMovedTrash
 msgid ""
-"{0} {0,choice,1#conversation|2#conversations} and {1} "
-"{1,choice,1#message|2#messages} have been moved to the Trash folder."
+"{0} {0,choice,1#conversation|2#conversations} and {1} {1,choice,1#message|"
+"2#messages} have been moved to the Trash folder."
 msgstr ""
 
 #: actionDelete
@@ -576,8 +571,8 @@ msgstr ""
 
 #: actionTaskDeleted
 msgid ""
-"{0,choice,0#0 tasks have been deleted|1#1 task has been "
-"deleted|1<{0,number,integer} tasks have been deleted}."
+"{0,choice,0#0 tasks have been deleted|1#1 task has been deleted|1<{0,number,"
+"integer} tasks have been deleted}."
 msgstr ""
 
 #: actionConvGoTT
@@ -623,26 +618,26 @@ msgstr ""
 
 #: actionMessageHardDeleted
 msgid ""
-"{0,choice,0#0 messages have been deleted|1#1 message has been "
-"deleted|1<{0,number,integer} messages have been deleted}."
+"{0,choice,0#0 messages have been deleted|1#1 message has been deleted|1<{0,"
+"number,integer} messages have been deleted}."
 msgstr ""
 
 #: actionMessageFlag
 msgid ""
-"{0,choice,0#0 messages have been flagged|1#1 message has been "
-"flagged|1<{0,number,integer} messages have been flagged}."
+"{0,choice,0#0 messages have been flagged|1#1 message has been flagged|1<{0,"
+"number,integer} messages have been flagged}."
 msgstr ""
 
 #: actionMessageUnflag
 msgid ""
-"{0,choice,0#0 messages have been unflagged|1#1 message has been "
-"unflagged|1<{0,number,integer} messages have been unflagged}."
+"{0,choice,0#0 messages have been unflagged|1#1 message has been unflagged|1<{0,"
+"number,integer} messages have been unflagged}."
 msgstr ""
 
 #: actionMessageMarkedRead
 msgid ""
-"{0,choice,0#0 messages have been marked read|1#1 message has been marked "
-"read|1<{0,number,integer} messages have been marked read}."
+"{0,choice,0#0 messages have been marked read|1#1 message has been marked read|"
+"1<{0,number,integer} messages have been marked read}."
 msgstr ""
 
 #: actionMessageMarkedUnread
@@ -653,40 +648,40 @@ msgstr ""
 
 #: actionMessageMarkedNotSpam
 msgid ""
-"{0,choice,0#0 messages have been moved to the Inbox folder|1#1 message has "
-"been moved to the Inbox folder|1<{0,number,integer} messages have been moved "
-"to the Inbox folder}."
+"{0,choice,0#0 messages have been moved to the Inbox folder|1#1 message has been "
+"moved to the Inbox folder|1<{0,number,integer} messages have been moved to the "
+"Inbox folder}."
 msgstr ""
 
 #: actionMessageMarkedSpam
 msgid ""
-"{0,choice,0#0 messages have been moved to the Spam folder|1#1 message has "
-"been moved to the Spam folder|1<{0,number,integer} messages have been moved "
-"to the Spam folder}."
+"{0,choice,0#0 messages have been moved to the Spam folder|1#1 message has been "
+"moved to the Spam folder|1<{0,number,integer} messages have been moved to the "
+"Spam folder}."
 msgstr ""
 
 #: actionMessageTag
 msgid ""
-"The tag \"{1}\" has been added to {0,choice,0#0 messages|1#1 "
-"message|1<{0,number,integer} messages}."
+"The tag \"{1}\" has been added to {0,choice,0#0 messages|1#1 message|1<{0,"
+"number,integer} messages}."
 msgstr ""
 
 #: actionMessageUntag
 msgid ""
-"The tag \"{1}\" has been removed from {0,choice,0#0 messages|1#1 "
-"message|1<{0,number,integer} messages}."
+"The tag \"{1}\" has been removed from {0,choice,0#0 messages|1#1 message|1<{0,"
+"number,integer} messages}."
 msgstr ""
 
 #: actionMessageUntagAll
 msgid ""
-"All tags have been removed from {0,choice,0#0 messages|1#1 "
-"message|1<{0,number,integer} messages}."
+"All tags have been removed from {0,choice,0#0 messages|1#1 message|1<{0,number,"
+"integer} messages}."
 msgstr ""
 
 #: actionMessageMoved
 msgid ""
-"{0,choice,0#0 messages have been moved to \"{1}\"|1#1 message has been moved "
-"to \"{1}\"|1<{0,number,integer} messages have been moved to \"{1}\"}."
+"{0,choice,0#0 messages have been moved to \"{1}\"|1#1 message has been moved to "
+"\"{1}\"|1<{0,number,integer} messages have been moved to \"{1}\"}."
 msgstr ""
 
 #: actionSingleMessageMoved
@@ -695,9 +690,9 @@ msgstr ""
 
 #: actionMessageMovedTrash
 msgid ""
-"{0,choice,0#0 messages have been moved to the Trash folder|1#1 message has "
-"been moved to the Trash folder|1<{0,number,integer} messages have been moved "
-"to the Trash folder}."
+"{0,choice,0#0 messages have been moved to the Trash folder|1#1 message has been "
+"moved to the Trash folder|1<{0,number,integer} messages have been moved to the "
+"Trash folder}."
 msgstr ""
 
 #: actionMessageDeleted
@@ -983,20 +978,20 @@ msgstr ""
 
 #: actionTaskTag
 msgid ""
-"The tag \"{1}\" has been added to {0,choice,0#0 tasks|1#1 "
-"task|1<{0,number,integer} tasks}."
+"The tag \"{1}\" has been added to {0,choice,0#0 tasks|1#1 task|1<{0,number,"
+"integer} tasks}."
 msgstr ""
 
 #: actionTaskUntag
 msgid ""
-"The tag \"{1}\" has been removed from {0,choice,0#0 tasks|1#1 "
-"task|1<{0,number,integer} tasks}."
+"The tag \"{1}\" has been removed from {0,choice,0#0 tasks|1#1 task|1<{0,number,"
+"integer} tasks}."
 msgstr ""
 
 #: actionTaskUntagAll
 msgid ""
-"All tags have been removed from {0,choice,0#0 tasks|1#1 "
-"task|1<{0,number,integer} tasks}."
+"All tags have been removed from {0,choice,0#0 tasks|1#1 task|1<{0,number,"
+"integer} tasks}."
 msgstr ""
 
 #: actionTaskListTasksImported
@@ -1053,17 +1048,16 @@ msgstr ""
 
 #: actionVoiceMailMovedInbox
 msgid ""
-"{0,choice,0#0 voice mail messages have been moved to the Voice Mail "
-"folder|1#1 voice mail message has been moved to the Voice Mail "
-"folder|1<{0,number,integer} voice mail messages have been moved to the Voice "
-"Mail folder}."
+"{0,choice,0#0 voice mail messages have been moved to the Voice Mail folder|1#1 "
+"voice mail message has been moved to the Voice Mail folder|1<{0,number,integer} "
+"voice mail messages have been moved to the Voice Mail folder}."
 msgstr ""
 
 #: actionVoiceMailMovedTrash
 msgid ""
-"{0,choice,0#0 voice mail messages have been moved to the Trash folder|1#1 "
-"voice mail message has been moved to the Trash folder|1<{0,number,integer} "
-"voice mail messages have been moved to the Trash folder}."
+"{0,choice,0#0 voice mail messages have been moved to the Trash folder|1#1 voice "
+"mail message has been moved to the Trash folder|1<{0,number,integer} voice mail "
+"messages have been moved to the Trash folder}."
 msgstr ""
 
 #: actionVoiceMailMovedTrash1
@@ -1072,16 +1066,16 @@ msgstr ""
 
 #: actionVoiceMailMarkedHeard
 msgid ""
-"{0,choice,0#0 voice mail messages have been marked heard|1#1 voice mail "
-"message has been marked heard|1<{0,number,integer} voice mail messages have "
-"been marked heard}."
+"{0,choice,0#0 voice mail messages have been marked heard|1#1 voice mail message "
+"has been marked heard|1<{0,number,integer} voice mail messages have been marked "
+"heard}."
 msgstr ""
 
 #: actionVoiceMailMarkedUnheard
 msgid ""
 "{0,choice,0#0 voice mail messages have been marked unheard|1#1 voice mail "
-"message has been marked unheard|1<{0,number,integer} voice mail messages "
-"have been marked unheard}."
+"message has been marked unheard|1<{0,number,integer} voice mail messages have "
+"been marked unheard}."
 msgstr ""
 
 #: actionVoiceMailPrivate
@@ -1365,8 +1359,8 @@ msgstr ""
 
 #: attachmentCount
 msgid ""
-"{0,choice,0#no attachments|1#{0,number,integer} "
-"attachment|1<{0,number,integer} attachments}"
+"{0,choice,0#no attachments|1#{0,number,integer} attachment|1<{0,number,integer} "
+"attachments}"
 msgstr ""
 
 #: attachmentLimitMsg
@@ -1451,12 +1445,11 @@ msgstr ""
 
 #: basicClientLoginNotice
 msgid ""
-"You are using the basic client. Click <a href=\"{0}\">here</a> to switch to "
-"the advanced client.<br><br><a target=\"_new\" "
-"href=\"http://www.zimbra.com\">Zimbra</a> :: the leader in open source "
-"messaging and collaboration<br><a target=\"_new\" "
-"href=\"http://www.zimbra.com/blog\">Zimbra Blog</a> <a target=\"_new\" "
-"href=\"http://wiki.zimbra.com\">Zimbra Wiki</a>"
+"You are using the basic client. Click <a href=\"{0}\">here</a> to switch to the "
+"advanced client.<br><br><a target=\"_new\" href=\"http://www.zimbra.com"
+"\">Zimbra</a> :: the leader in open source messaging and collaboration<br><a "
+"target=\"_new\" href=\"http://www.zimbra.com/blog\">Zimbra Blog</a> <a target="
+"\"_new\" href=\"http://wiki.zimbra.com\">Zimbra Wiki</a>"
 msgstr ""
 
 #: bcc
@@ -1917,9 +1910,9 @@ msgstr ""
 
 #: confirmEmptyTrashFolder
 msgid ""
-"{0}This action will delete all items in both the Email and Address Book "
-"trash folders.  Are you sure that you want to permanently delete everything "
-"in the trash folder? {1}{2}"
+"{0}This action will delete all items in both the Email and Address Book trash "
+"folders.  Are you sure that you want to permanently delete everything in the "
+"trash folder? {1}{2}"
 msgstr ""
 
 #: confirmUnsavedChanges
@@ -2337,8 +2330,8 @@ msgstr ""
 #: errorPhoneIsInList
 msgid ""
 "Sorry, you entered a telephone number that is already added. Please enter "
-"another valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US "
-"telephone number and try again. SCC-0398"
+"another valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US telephone "
+"number and try again. SCC-0398"
 msgstr ""
 
 #: errorPhoneIsTo
@@ -2347,57 +2340,57 @@ msgstr ""
 
 #: errorPhoneIsOwn
 msgid ""
-"Sorry, you cannot use your telephone number with this feature. Please enter "
-"a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1- XXX-XXX-XXXX) US telephone "
-"number and try again. SCC-0390"
+"Sorry, you cannot use your telephone number with this feature. Please enter a "
+"valid 10 digit (XXX-XXX-XXXX) or 11 digit(1- XXX-XXX-XXXX) US telephone number "
+"and try again. SCC-0390"
 msgstr ""
 
 #: errorPhoneIsInternational
 msgctxt "errorPhoneIsInternational"
 msgid ""
 "Sorry, this feature does not support international telephone numbers. Please "
-"enter a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US "
-"telephone number and try again. SCC-0391"
+"enter a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US telephone "
+"number and try again. SCC-0391"
 msgstr ""
 
 #: errorPhoneInvalidAreaCode
 msgctxt "errorPhoneInvalidAreaCode"
 msgid ""
-"Sorry, this feature does not support telephone numbers with area codes of "
-"900, 500, 700 or 976. Please enter a valid 10 digit (XXX-XXX-XXXX) or 11 "
-"digit(1-XXX-XXX-XXXX) US telephone number and try again. SCC-0392"
+"Sorry, this feature does not support telephone numbers with area codes of 900, "
+"500, 700 or 976. Please enter a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-"
+"XXX-XXXX) US telephone number and try again. SCC-0392"
 msgstr ""
 
 #: errorPhoneInvalidExtension
 msgctxt "errorPhoneInvalidExtension"
 msgid ""
-"Sorry, this feature does not support telephone numbers with the 555 "
-"exchange. (e.g. XXX-555-XXXX). Please enter a valid 10 digit (XXX-XXX-XXXX) "
-"or 11 digit(1-XXX-XXX-XXXX) US telephone number and try again. SCC-0393"
+"Sorry, this feature does not support telephone numbers with the 555 exchange. "
+"(e.g. XXX-555-XXXX). Please enter a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-"
+"XXX-XXX-XXXX) US telephone number and try again. SCC-0393"
 msgstr ""
 
 #: errorPhoneIs911
 msgctxt "errorPhoneIs911"
 msgid ""
-"Sorry, this feature does not support the 911 telephone numbers. Please enter "
-"a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US telephone "
-"number and try again. SCC-0394"
+"Sorry, this feature does not support the 911 telephone numbers. Please enter a "
+"valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US telephone number "
+"and try again. SCC-0394"
 msgstr ""
 
 #: errorPhoneIs411
 msgctxt "errorPhoneIs411"
 msgid ""
-"Sorry, this feature does not support the 411 telephone numbers. Please enter "
-"a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US telephone "
-"number and try again. SCC-0395"
+"Sorry, this feature does not support the 411 telephone numbers. Please enter a "
+"valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US telephone number "
+"and try again. SCC-0395"
 msgstr ""
 
 #: errorPhoneInvalid
 msgctxt "errorPhoneInvalid"
 msgid ""
-"Sorry, this feature does not support the telephone number entered. Please "
-"enter a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US "
-"telephone number and try again. SCC-0396"
+"Sorry, this feature does not support the telephone number entered. Please enter "
+"a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US telephone number "
+"and try again. SCC-0396"
 msgstr ""
 
 #: excludeFromFreeBusy
@@ -2534,8 +2527,8 @@ msgstr ""
 
 #: calendarEmptyConfirmation
 msgid ""
-"Permanently delete all appointments in this calendar. This operation can not "
-"be undone."
+"Permanently delete all appointments in this calendar. This operation can not be "
+"undone."
 msgstr ""
 
 #: taskListEmptyConfirmation
@@ -2546,8 +2539,8 @@ msgstr ""
 
 #: addressBookEmptyConfirmation
 msgid ""
-"Permanently delete all contacts in this address book. This operation can not "
-"be undone."
+"Permanently delete all contacts in this address book. This operation can not be "
+"undone."
 msgstr ""
 
 #: folderPermDeleteConfirmation
@@ -2827,8 +2820,7 @@ msgstr ""
 
 #: lostEmailNotification
 msgid ""
-"The email notification will be turned off and the email address will be "
-"removed."
+"The email notification will be turned off and the email address will be removed."
 msgstr ""
 
 #: invitees
@@ -3329,8 +3321,8 @@ msgstr ""
 
 #: optionsAccessPopCurrentValue
 msgid ""
-"Current value is to only download mail that has arrived after {0,date,short} "
-"at {0,time,short}."
+"Current value is to only download mail that has arrived after {0,date,short} at "
+"{0,time,short}."
 msgstr ""
 
 #: optionsAccounts
@@ -3714,8 +3706,7 @@ msgstr ""
 
 #: optionsVoiceNotificationsErrorMax
 msgid ""
-"Sorry, you can only enter a maximum of 25 email addresses in the list. "
-"SCC-1506"
+"Sorry, you can only enter a maximum of 25 email addresses in the list. SCC-1506"
 msgstr ""
 
 #: optionsVoiceNotificationsErrorInvalid
@@ -3781,19 +3772,19 @@ msgstr ""
 #: optionsCallForwardingErrorToEmpty
 msgctxt "optionsCallForwardingErrorToEmpty"
 msgid ""
-"Sorry, the Forward To number cannot be blank with call forward option "
-"selected. You must enter a valid telephone number to use this feature. "
-"Please enter a valid 10 digit (XXX-XXX-XXXX) or 11 digit (1-XXX-XXX-XXXX) US "
-"telephone number and try again. SCC-0397"
+"Sorry, the Forward To number cannot be blank with call forward option selected. "
+"You must enter a valid telephone number to use this feature. Please enter a "
+"valid 10 digit (XXX-XXX-XXXX) or 11 digit (1-XXX-XXX-XXXX) US telephone number "
+"and try again. SCC-0397"
 msgstr ""
 
 #: optionsCallForwardingSelectiveErrorToEmpty
 msgctxt "optionsCallForwardingSelectiveErrorToEmpty"
 msgid ""
-"Sorry, the Forward To number cannot be blank with call forward option "
-"selected. You must enter a valid telephone number to use this feature. "
-"Please enter a valid 10 digit (XXX-XXX-XXXX) or 11 digit (1-XXX-XXX-XXXX) US "
-"telephone number and try again. SCC-0397"
+"Sorry, the Forward To number cannot be blank with call forward option selected. "
+"You must enter a valid telephone number to use this feature. Please enter a "
+"valid 10 digit (XXX-XXX-XXXX) or 11 digit (1-XXX-XXX-XXXX) US telephone number "
+"and try again. SCC-0397"
 msgstr ""
 
 #: optionsCallForwardingSelectiveToEmptyInstructions
@@ -3812,8 +3803,8 @@ msgstr ""
 
 #: optionsCallRejectionAllLabel
 msgid ""
-"Screen ALL anonymous calls (you can also manage this feature by dialing "
-"*77/*87 from your Comcast Digital Voice Phone)"
+"Screen ALL anonymous calls (you can also manage this feature by dialing *77/*87 "
+"from your Comcast Digital Voice Phone)"
 msgstr ""
 
 #: optionsCallRejectionSelective
@@ -3853,8 +3844,8 @@ msgstr ""
 
 #: optionsVoiceCenterLinkURL
 msgid ""
-"https://digitalvoice.comcast.net/Comcast/DVPPortal/Dvp.portal?_nfpb=true&_pa"
-"geLabel=DvpPreferencesBook"
+"https://digitalvoice.comcast.net/Comcast/DVPPortal/Dvp.portal?"
+"_nfpb=true&_pageLabel=DvpPreferencesBook"
 msgstr ""
 
 #: optionsForwardAcopyTo
@@ -4334,8 +4325,7 @@ msgstr ""
 
 #: recurMonthlyEveryNumMonthsDate
 msgid ""
-"Day {0,number,integer} of every {1,number,integer} "
-"{1,choice,1#month|1<months}."
+"Day {0,number,integer} of every {1,number,integer} {1,choice,1#month|1<months}."
 msgstr ""
 
 #: recurMonthly
@@ -4344,8 +4334,8 @@ msgstr ""
 
 #: recurMonthlyEveryNumMonthsNumDay
 msgid ""
-"The {0,choice,-1#last|1#first|2#second|3#third|4#fourth} {1,date,EEEE} of "
-"every {2,number,integer} month(s)."
+"The {0,choice,-1#last|1#first|2#second|3#third|4#fourth} {1,date,EEEE} of every "
+"{2,number,integer} month(s)."
 msgstr ""
 
 #: recurYearly
@@ -4358,8 +4348,8 @@ msgstr ""
 
 #: recurYearlyEveryMonthNumDay
 msgid ""
-"The {0,choice,-1#last|1#first|2#second|3#third|4#fourth} {1,date,EEEE} of "
-"every {2,date,MMMM}."
+"The {0,choice,-1#last|1#first|2#second|3#third|4#fourth} {1,date,EEEE} of every "
+"{2,date,MMMM}."
 msgstr ""
 
 #: recurComplex
@@ -4485,8 +4475,8 @@ msgstr ""
 
 #: repeatEditMonthlyRelative
 msgid ""
-"<td>The</td><td>{0}</td><td>{1}</td><td>of "
-"every</td><td>{2}</td><td>month(s).</td>"
+"<td>The</td><td>{0}</td><td>{1}</td><td>of every</td><td>{2}</td><td>month(s).</"
+"td>"
 msgstr ""
 
 #: repeatEditYearlyByDate
@@ -4805,9 +4795,8 @@ msgstr ""
 #. # Copyright string must not be translated
 #: splashScreenCopyright
 msgid ""
-"Copyright © 2005-2013 Telligent Systems, Inc.  All rights reserved. "
-"Telligent and Zimbra are registered trademarks or trademarks of Telligent "
-"Systems, Inc."
+"Copyright © 2005-2013 Telligent Systems, Inc.  All rights reserved. Telligent "
+"and Zimbra are registered trademarks or trademarks of Telligent Systems, Inc."
 msgstr ""
 
 #: splashScreenAppName
@@ -5137,14 +5126,13 @@ msgstr ""
 
 #: voiceErrorUnableToAuth
 msgid ""
-"Authorization Failed. Please verify that your password is set correctly in "
-"the Voice preferences or contact your administrator for further assistance."
+"Authorization Failed. Please verify that your password is set correctly in the "
+"Voice preferences or contact your administrator for further assistance."
 msgstr ""
 
 #: voiceErrorUnsupported
 msgid ""
-"Account not provisioned for Voice feature. Kindly contact your "
-"administrator."
+"Account not provisioned for Voice feature. Kindly contact your administrator."
 msgstr ""
 
 #: voiceErrorGeneric
@@ -5167,8 +5155,8 @@ msgid ""
 "\n"
 "\n"
 "\n"
-"A voice customer has sent you a new voice mail message. You can listen to "
-"the voice mail by simply opening the attached file.\n"
+"A voice customer has sent you a new voice mail message. You can listen to the "
+"voice mail by simply opening the attached file.\n"
 "From: {0}  |  Duration: {1}  |  Received: {2}\n"
 "\n"
 "http://www.zimbra.com "
@@ -5294,8 +5282,8 @@ msgstr ""
 #: 401Msg
 msgid ""
 "The server could not verify that you are authorized to access the requested "
-"resource.  Either you supplied the wrong credentials (e.g., bad password), "
-"or your browser doesn't understand how to supply the credentials required."
+"resource.  Either you supplied the wrong credentials (e.g., bad password), or "
+"your browser doesn't understand how to supply the credentials required."
 msgstr ""
 
 #: 402Title
@@ -5305,8 +5293,8 @@ msgstr ""
 #: 402Msg
 msgctxt "402Msg"
 msgid ""
-"The server has encountered an internal error or misconfiguration and was "
-"unable to complete your request."
+"The server has encountered an internal error or misconfiguration and was unable "
+"to complete your request."
 msgstr ""
 
 #: 403Title
@@ -5315,8 +5303,7 @@ msgstr ""
 
 #: 403Msg
 msgid ""
-"You don't have enough permission to access the requested resource on the "
-"server."
+"You don't have enough permission to access the requested resource on the server."
 msgstr ""
 
 #: 404Title
@@ -5359,8 +5346,8 @@ msgstr ""
 
 #: 408Msg
 msgid ""
-"The server closed the network connection because the browser didn't finish "
-"the request within the specified time."
+"The server closed the network connection because the browser didn't finish the "
+"request within the specified time."
 msgstr ""
 
 #: 409Title
@@ -5370,8 +5357,8 @@ msgstr ""
 #: 409Msg
 msgctxt "409Msg"
 msgid ""
-"The server has encountered an internal error or misconfiguration and was "
-"unable to complete your request."
+"The server has encountered an internal error or misconfiguration and was unable "
+"to complete your request."
 msgstr ""
 
 #: 410Title
@@ -5452,8 +5439,8 @@ msgstr ""
 
 #: 422Msg
 msgid ""
-"The server understands the media type of the request entity, but was unable "
-"to process the contained instructions."
+"The server understands the media type of the request entity, but was unable to "
+"process the contained instructions."
 msgstr ""
 
 #: 423Title
@@ -5462,8 +5449,8 @@ msgstr ""
 
 #: 423Msg
 msgid ""
-"The requested resource is currently locked. The lock must be released or "
-"proper identification given before the method can be applied."
+"The requested resource is currently locked. The lock must be released or proper "
+"identification given before the method can be applied."
 msgstr ""
 
 #: 424Title
@@ -5472,8 +5459,8 @@ msgstr ""
 
 #: 424Msg
 msgid ""
-"The method could not be performed on the resource because the requested "
-"action depended on another action and that other action failed."
+"The method could not be performed on the resource because the requested action "
+"depended on another action and that other action failed."
 msgstr ""
 
 #: 425Title
@@ -5483,8 +5470,8 @@ msgstr ""
 #: 425Msg
 msgctxt "425Msg"
 msgid ""
-"The server has encountered an internal error or misconfiguration and was "
-"unable to complete your request."
+"The server has encountered an internal error or misconfiguration and was unable "
+"to complete your request."
 msgstr ""
 
 #: 426Title
@@ -5548,8 +5535,7 @@ msgid "HTTP Version Not Supported"
 msgstr ""
 
 #: 505Msg
-msgid ""
-"The server does not support the HTTP protocol version used in the request."
+msgid "The server does not support the HTTP protocol version used in the request."
 msgstr ""
 
 #: 506Title
@@ -5577,8 +5563,8 @@ msgstr ""
 #: 509Msg
 msgctxt "509Msg"
 msgid ""
-"The server has encountered an internal error or misconfiguration and was "
-"unable to complete your request."
+"The server has encountered an internal error or misconfiguration and was unable "
+"to complete your request."
 msgstr ""
 
 #: 510Title
@@ -5587,8 +5573,8 @@ msgstr ""
 
 #: 510Msg
 msgid ""
-"A mandatory extension policy in the request is not accepted by the server "
-"for this resource."
+"A mandatory extension policy in the request is not accepted by the server for "
+"this resource."
 msgstr ""
 
 #: SKIN_uiTheme
@@ -7366,8 +7352,7 @@ msgstr ""
 
 #: MO_MaxFoldersNote
 msgid ""
-"You might be seeing max {0} folders. You can change this value from "
-"Preferences."
+"You might be seeing max {0} folders. You can change this value from Preferences."
 msgstr ""
 
 #: MO_SessionPrefsNote
@@ -7530,8 +7515,8 @@ msgstr ""
 
 #: account.EXTERNAL_AUTH_FAILED
 msgid ""
-"The email or password is incorrect. Verify that CAPS LOCK is not on, and "
-"then retype the current email and password."
+"The email or password is incorrect. Verify that CAPS LOCK is not on, and then "
+"retype the current email and password."
 msgstr ""
 
 #: account.PASSWORD_LOCKED
@@ -7558,8 +7543,8 @@ msgstr ""
 
 #: account.INVALID_PASSWORD.zimbraPasswordAllowedChars
 msgid ""
-"New password does not meet the system's rules (i.e allowed chars). Contact "
-"your System Administrator for more information."
+"New password does not meet the system's rules (i.e allowed chars). Contact your "
+"System Administrator for more information."
 msgstr ""
 
 #: account.INVALID_PASSWORD.zimbraPasswordMinLength
@@ -7606,8 +7591,8 @@ msgstr ""
 
 #: account.INVALID_PASSWORD.zimbraPasswordMinDigitsOrPuncs
 msgid ""
-"New password must have minimum {0} numeric or punctuation chars. Contact "
-"your System Administrator for more information."
+"New password must have minimum {0} numeric or punctuation chars. Contact your "
+"System Administrator for more information."
 msgstr ""
 
 #: account.INVALID_ATTR_NAME
@@ -7816,8 +7801,7 @@ msgid "Unable to import contacts."
 msgstr ""
 
 #: mail.QUOTA_EXCEEDED
-msgid ""
-"Your message could not be sent because you have exceeded your mail quota."
+msgid "Your message could not be sent because you have exceeded your mail quota."
 msgstr ""
 
 #: mail.INVALID_ID
@@ -7866,8 +7850,7 @@ msgstr ""
 
 #: mail.MODIFY_CONFLICT
 msgid ""
-"Item version number conflict. Another version was added between edit and "
-"save."
+"Item version number conflict. Another version was added between edit and save."
 msgstr ""
 
 #: mail.IMMUTABLE_OBJECT
@@ -7928,8 +7911,7 @@ msgstr ""
 
 #: mail.MESSAGE_TOO_BIG
 msgid ""
-"This file cannot be attached because it has exceeded the maximum allowed "
-"size."
+"This file cannot be attached because it has exceeded the maximum allowed size."
 msgstr ""
 
 #: zclient.CLIENT_ERROR
@@ -7995,8 +7977,8 @@ msgstr ""
 
 #: voice.UNABLE_TO_RETRIEVE_PROFILE_SUMMARY
 msgid ""
-"The system is currently unable to complete your request. We apologize for "
-"this inconvenience."
+"The system is currently unable to complete your request. We apologize for this "
+"inconvenience."
 msgstr ""
 
 #: voice.UNABLE_TO_RETRIEVE_CALLLOGS
@@ -8012,15 +7994,13 @@ msgstr ""
 #: voice.UNABLE_TO_UPDATE_CALL_FEATURES
 msgctxt "voice.UNABLE_TO_UPDATE_CALL_FEATURES"
 msgid ""
-"We are temporarily unable to forward calls. We apologize for this "
-"inconvenience."
+"We are temporarily unable to forward calls. We apologize for this inconvenience."
 msgstr ""
 
 #: voice.UNABLE_TO_MODIFY_CALL_FEATURES
 msgctxt "voice.UNABLE_TO_MODIFY_CALL_FEATURES"
 msgid ""
-"We are temporarily unable to forward calls. We apologize for this "
-"inconvenience."
+"We are temporarily unable to forward calls. We apologize for this inconvenience."
 msgstr ""
 
 #: voice.UNABLE_TO_MODIFY_VOICEMAIL_PREFS
@@ -8083,57 +8063,57 @@ msgstr ""
 #. #voice.UNABLE_TO_RETRIEVE_CALL_FEATURES = An error occurred while attempting to retrieve your voice mail preferences. Your telephone number may be out of service. We apologize for this inconvenience.
 #: voice.INVALID_PHNUM_OWN_PHONE_NUMBER
 msgid ""
-"Sorry, you cannot use your telephone number with this feature. Please enter "
-"a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1- XXX-XXX-XXXX) US telephone "
-"number and try again. SCC- 0390"
+"Sorry, you cannot use your telephone number with this feature. Please enter a "
+"valid 10 digit (XXX-XXX-XXXX) or 11 digit(1- XXX-XXX-XXXX) US telephone number "
+"and try again. SCC- 0390"
 msgstr ""
 
 #: voice.INVALID_PHNUM_INTERNATIONAL_NUMBER
 msgctxt "voice.INVALID_PHNUM_INTERNATIONAL_NUMBER"
 msgid ""
 "Sorry, this feature does not support international telephone numbers. Please "
-"enter a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US "
-"telephone number and try again. SCC-0391"
+"enter a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US telephone "
+"number and try again. SCC-0391"
 msgstr ""
 
 #: voice.INVALID_PHNUM_BAD_NPA
 msgctxt "voice.INVALID_PHNUM_BAD_NPA"
 msgid ""
-"Sorry, this feature does not support telephone numbers with area codes of "
-"900, 500, 700 or 976. Please enter a valid 10 digit (XXX-XXX-XXXX) or 11 "
-"digit(1-XXX-XXX-XXXX) US telephone number and try again. SCC-0392"
+"Sorry, this feature does not support telephone numbers with area codes of 900, "
+"500, 700 or 976. Please enter a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-"
+"XXX-XXXX) US telephone number and try again. SCC-0392"
 msgstr ""
 
 #: voice.INVALID_PHNUM_BAD_LINE
 msgctxt "voice.INVALID_PHNUM_BAD_LINE"
 msgid ""
-"Sorry, this feature does not support telephone numbers with the 555 "
-"exchange. (e.g. XXX-555-XXXX). Please enter a valid 10 digit (XXX-XXX-XXXX) "
-"or 11 digit(1-XXX-XXX-XXXX) US telephone number and try again. SCC-0393"
+"Sorry, this feature does not support telephone numbers with the 555 exchange. "
+"(e.g. XXX-555-XXXX). Please enter a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-"
+"XXX-XXX-XXXX) US telephone number and try again. SCC-0393"
 msgstr ""
 
 #: voice.INVALID_PHNUM_EMERGENCY_ASSISTANCE
 msgctxt "voice.INVALID_PHNUM_EMERGENCY_ASSISTANCE"
 msgid ""
-"Sorry, this feature does not support the 911 telephone numbers. Please enter "
-"a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US telephone "
-"number and try again. SCC-0394"
+"Sorry, this feature does not support the 911 telephone numbers. Please enter a "
+"valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US telephone number "
+"and try again. SCC-0394"
 msgstr ""
 
 #: voice.INVALID_PHNUM_DIRECTORY_ASSISTANCE
 msgctxt "voice.INVALID_PHNUM_DIRECTORY_ASSISTANCE"
 msgid ""
-"Sorry, this feature does not support the 411 telephone numbers. Please enter "
-"a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US telephone "
-"number and try again. SCC-0395"
+"Sorry, this feature does not support the 411 telephone numbers. Please enter a "
+"valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US telephone number "
+"and try again. SCC-0395"
 msgstr ""
 
 #: voice.INVALID_PHNUM_BAD_FORMAT
 msgctxt "voice.INVALID_PHNUM_BAD_FORMAT"
 msgid ""
-"Sorry, this feature does not support the telephone number entered. Please "
-"enter a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US "
-"telephone number and try again. SCC-0396"
+"Sorry, this feature does not support the telephone number entered. Please enter "
+"a valid 10 digit (XXX-XXX-XXXX) or 11 digit(1-XXX-XXX-XXXX) US telephone number "
+"and try again. SCC-0396"
 msgstr ""
 
 #: voice.SELECTIVE_CALL_FORWARD_LIST_FULL

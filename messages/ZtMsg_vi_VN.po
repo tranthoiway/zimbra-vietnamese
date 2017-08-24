@@ -1,20 +1,21 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-07 23:29+0700\n"
-"PO-Revision-Date: 2015-10-13 18:22+0700\n"
+"PO-Revision-Date: 2017-08-24 01:56+0700\n"
 "Last-Translator: Dung Le <dungll@iwayvietnam.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Poedit 2.0.3\n"
+"Language-Team: \n"
+"Language: vi_VN\n"
 
 #. # Login
 #: htmlMobileClient
 msgid "Switch to the mobile version"
-msgstr "Chuyển sang phiên bản di động "
+msgstr "Chuyển sang phiên bản di động"
 
 #. # Bookmark Title
 #: zimbraTitle
@@ -128,7 +129,7 @@ msgstr "Không tìm thấy cuộc đàm thoại"
 
 #: loadMore
 msgid "Load More..."
-msgstr "'Tải thêm...'"
+msgstr "Tải thêm..."
 
 #: pullToRefresh
 msgid "Pull down to refresh"
@@ -259,11 +260,11 @@ msgstr "Địa điểm"
 
 #: nameMissing
 msgid "Name is required."
-msgstr "Yêu cầu nhập tên"
+msgstr "Yêu cầu nhập tên."
 
 #: nameTooLong
 msgid "The name must be at most {0} characters long."
-msgstr "Tên phải bao gồm tối đa {0} ký tự"
+msgstr "Tên phải bao gồm tối đa {0} ký tự."
 
 #: nameInvalid
 msgctxt "nameInvalid"
@@ -272,7 +273,7 @@ msgstr "\"{0}\" không hợp lệ do chứa ít nhất một ký tự không h�
 
 #: noChangesMade
 msgid "No changes made."
-msgstr "Không có thay đổi nào được thực hiện. "
+msgstr "Không có thay đổi nào được thực hiện."
 
 #. # Internal system folder names
 #: distributionLists
@@ -348,39 +349,39 @@ msgstr "{0} {1} trước"
 #. # Headers (used in message header display, compose labels, and to find quoted content)
 #: toHdr
 msgid "To"
-msgstr "Tới:"
+msgstr "Tới"
 
 #: ccHdr
 msgid "Cc"
-msgstr "Cc:"
+msgstr "Cc"
 
 #: bccHdr
 msgid "Bcc"
-msgstr "Bcc:"
+msgstr "Bcc"
 
 #: dateHdr
 msgctxt "dateHdr"
 msgid "Date"
-msgstr "Ngày:"
+msgstr "Ngày"
 
 #: fromHdr
 msgid "From"
-msgstr "Từ:"
+msgstr "Từ"
 
 #: sentHdr
 msgctxt "sentHdr"
 msgid "Sent"
-msgstr "Đã gửi:"
+msgstr "Đã gửi"
 
 #: subjectHdr
 msgctxt "subjectHdr"
 msgid "Subject"
-msgstr "Chủ đề:"
+msgstr "Chủ đề"
 
 #: tagsHdr
 msgctxt "tagsHdr"
 msgid "Tags"
-msgstr "Thẻ:"
+msgstr "Thẻ"
 
 #: onBehalfOfMidLabel
 msgctxt "onBehalfOfMidLabel"
@@ -578,62 +579,62 @@ msgstr "ẩn văn bản trích dẫn"
 #: invStartLabel
 msgctxt "invStartLabel"
 msgid "Start"
-msgstr "Bắt đầu:"
+msgstr "Bắt đầu"
 
 #: invEndLabel
 msgctxt "invEndLabel"
 msgid "End"
-msgstr "Kết thúc:"
+msgstr "Kết thúc"
 
 #: invLocationLabel
 msgctxt "invLocationLabel"
 msgid "Location"
-msgstr "Địa điểm:"
+msgstr "Địa điểm"
 
 #: invOrganizerLabel
 msgid "Organizer"
-msgstr "Người tổ chức:"
+msgstr "Người tổ chức"
 
 #: invSentByLabel
 msgid "Sent By"
-msgstr "Đã gửi bởi:"
+msgstr "Đã gửi bởi"
 
 #: invAttendeesLabel
 msgctxt "invAttendeesLabel"
 msgid "Attendees"
-msgstr "Người tham dự:"
+msgstr "Người tham dự"
 
 #: invOptionalAttendeesLabel
 msgid "Optional"
-msgstr "Tùy chọn:"
+msgstr "Tùy chọn"
 
 #. # Used for all-day appointment
 #: invDateLabel
 msgctxt "invDateLabel"
 msgid "Date"
-msgstr "Ngày:"
+msgstr "Ngày"
 
 #: invRespondLabel
 msgid "Respond"
-msgstr "Phản hồi:"
+msgstr "Phản hồi"
 
 #: invSubjectLabel
 msgctxt "invSubjectLabel"
 msgid "Subject"
-msgstr "Chủ đề:"
+msgstr "Chủ đề"
 
 #: invStatusLabel
 msgid "Status"
-msgstr "Tình trạng:"
+msgstr "Tình trạng"
 
 #: invIntendedFor
 msgid "Intended for"
-msgstr "Dành cho:"
+msgstr "Dành cho"
 
 #: invReminderLabel
 msgctxt "invReminderLabel"
 msgid "Reminder"
-msgstr "Nhắc nhở:"
+msgstr "Nhắc nhở"
 
 #: invReminderText
 msgid "minutes before"
@@ -653,11 +654,11 @@ msgstr "Thời gian"
 
 #: recurDailyEveryDay
 msgid "Every day;"
-msgstr "Mỗi ngày"
+msgstr "Mỗi ngày;"
 
 #: recurDailyEveryWeekday
 msgid "Every weekday;"
-msgstr "Mỗi ngày"
+msgstr "Mỗi ngày;"
 
 #: recurDailyEveryNumDays
 msgid "Every {0} days;"
@@ -693,7 +694,7 @@ msgstr "Effective {0}"
 
 #: recurEndNone
 msgid "No end date;"
-msgstr "Chưa nhập ngày kết thúc "
+msgstr "Chưa nhập ngày kết thúc;"
 
 #: recurEndNumber
 msgid "End after {0} occurrence(s);"
@@ -816,7 +817,7 @@ msgstr "{0} đã tạm thời chấp nhận lời mời."
 #. # Appointment View related
 #: attendeeEditWarning
 msgid "Changes that you make apply only to your local copy of the appointment. Changes made by the organizer will overwrite your changes."
-msgstr "Những thay đổi do bạn thực hiện trên lịch hẹn chỉ được lưu trên bản localvà sẽ bị thay thế bằng những thay đổi thực hiện bởi người tổ chức. "
+msgstr "Những thay đổi do bạn thực hiện trên lịch hẹn chỉ được lưu trên bản localvà sẽ bị thay thế bằng những thay đổi thực hiện bởi người tổ chức."
 
 #: attendeesTitle
 msgctxt "attendeesTitle"
@@ -1428,7 +1429,7 @@ msgstr "Không thể kết nối đến máy chủ."
 
 #: errorServerUnavailableLogout
 msgid "Cannot connect to server. To exit, close this window."
-msgstr "Không thể kết nối đến máy chủ. Đóng cửa sổ này để thoát. "
+msgstr "Không thể kết nối đến máy chủ. Đóng cửa sổ này để thoát."
 
 #: account.MAINTENANCE_MODE
 msgctxt "account.MAINTENANCE_MODE"
@@ -1571,7 +1572,7 @@ msgstr "Phiên của bạn đã hết hạn. Vui lòng đăng nhập lại."
 
 #: service.AUTH_EXPIRED_title
 msgid "Authentication Expired"
-msgstr "Xác thực hết hạn."
+msgstr "Xác thực hết hạn"
 
 #: service.WRONG_HOST
 msgid "Request was sent to the wrong server."
@@ -2052,7 +2053,7 @@ msgstr "Mở trường hợp"
 
 #: apptOpenSeries
 msgid "Open Series"
-msgstr "Mở chuỗi."
+msgstr "Mở chuỗi"
 
 #. # Strings needed during process of creating or editing an appointment
 #: create
@@ -2073,19 +2074,19 @@ msgstr "Chuyển tiếp Sự kiện"
 
 #: appointmentCreated
 msgid "Event Created"
-msgstr "Đã tạo Sự kiện."
+msgstr "Đã tạo Sự kiện"
 
 #: appointmentEdited
 msgid "Event Edited"
-msgstr "Đã sửa Sự kiện."
+msgstr "Đã sửa Sự kiện"
 
 #: invitationSent
 msgid "Invitation Sent"
-msgstr "Đã gửi Lời mời."
+msgstr "Đã gửi Lời mời"
 
 #: invitationsSent
 msgid "Invitations Sent"
-msgstr "Đã gửi Lời mời."
+msgstr "Đã gửi Lời mời"
 
 #: appointmentExceptionNote
 msgid "This is an exception to the series."
@@ -2093,7 +2094,7 @@ msgstr "Đây là một ngoại lệ của chuỗi."
 
 #: errorCreateAppt
 msgid "Unable to Create Appointment"
-msgstr "Không thể tạo Lịch hẹn. "
+msgstr "Không thể tạo Lịch hẹn"
 
 #: errorInvalidApptEndBeforeStart
 msgid "The end time must occur after the start time."
@@ -2105,11 +2106,11 @@ msgstr "Phải nhập Chủ đề."
 
 #: appointmentMovedToTrash
 msgid "Appointment moved to trash"
-msgstr "Đã chuyển Lịch hẹn vào thùng rác."
+msgstr "Đã chuyển Lịch hẹn vào thùng rác"
 
 #: appointmentDeleted
 msgid "Appointment deleted"
-msgstr "Đã xóa Lịch hẹn."
+msgstr "Đã xóa Lịch hẹn"
 
 #. # Appointment creation
 #: endLabel
@@ -2487,4 +2488,3 @@ msgstr "Đang tải thư..."
 #: noMessages
 msgid "No messages found"
 msgstr "Không tìm thấy"
-

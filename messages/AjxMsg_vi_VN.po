@@ -3,11 +3,11 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-07 23:27+0700\n"
-"PO-Revision-Date: 2015-05-07 22:52+0700\n"
+"PO-Revision-Date: 2017-08-24 01:58+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.5\n"
+"X-Generator: Poedit 2.0.3\n"
 "Last-Translator: Truong Anh Tuan <tuanta@iwayvietnam.com>\n"
 "Language-Team: \n"
 "Language: vi_VN\n"
@@ -92,7 +92,7 @@ msgstr ", và "
 
 #: listSeparatorTwo
 msgid " and "
-msgstr "và"
+msgstr " và "
 
 #. # for detecting quoted email msg content
 #: forwardedMessage
@@ -492,7 +492,7 @@ msgstr "Giá trị được yêu cầu"
 
 #: notAString
 msgid "Value must be a text string."
-msgstr "Giá trị phải là một chuỗi văn bản"
+msgstr "Giá trị phải là một chuỗi văn bản."
 
 #: stringLenWrong
 msgid "Value must be exactly {0} characters long."
@@ -1107,7 +1107,7 @@ msgstr "Thiết bị đầu cuối"
 
 #: fontFamilyBase11.display
 msgid "Modern"
-msgstr "Hiện đại\t"
+msgstr "Hiện đại"
 
 #: fontFamilyBase12.display
 msgid "Wide"
@@ -1130,7 +1130,7 @@ msgstr "times new roman, new york, times, serif"
 
 #: fontFamilyBase3.css
 msgid "'arial black','avant garde'"
-msgstr "arial black,avant garde"
+msgstr "'arial black','avant garde'"
 
 #: fontFamilyBase4.css
 msgid "'courier new', courier, monaco, monospace, sans-serif"
